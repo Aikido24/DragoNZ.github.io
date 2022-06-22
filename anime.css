@@ -1,0 +1,67 @@
+body{
+    background-color: #4877bd;
+    overflow-x: hidden;
+    width: 100%;
+}
+.container{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-x: hidden;
+}
+.gokuNube{
+    width: 100%;
+
+}
+
+.logo{
+    width: 100%;
+    margin-top: -70%;
+    text-align: center;
+}
+
+.logo > img{
+    width: 90%;
+    
+}
+.gokus{
+    width: 100%;
+    margin-top: 40%;
+    text-align: center;
+}
+
+.gokus > img{
+    width: 9%;
+    height: 4%;
+}
+
+.shenron{
+    width: 100%;
+    margin-top: 40%;
+    text-align: center;
+}
+
+.balls{
+    width: 100%;
+    text-align: center;
+}
+
+.balls > img{
+    width: 8%;
+}
+.gokuVolador{
+    width: 100%;
+    text-align: center;
+}
+.gokuVolador > img{
+    width: 100%;
+}
+
+.androide17{
+    width: 100%;
+    text-align: center;
+}
+.cell{
+    width: 100%;
+    text-align: center;
+}
